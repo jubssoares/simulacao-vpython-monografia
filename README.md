@@ -1,4 +1,6 @@
-<h2>Mudança da estequiometria do oxigênio e alteração cristalina do YBCO</h2>
+<h1>Mudança da estequiometria do oxigênio e alteração cristalina do YBCO</h1>
+
+<img width=400 align="right" src="https://github.com/jubssoares/simulacao-vpython-monografia/assets/104150753/7372f3cf-fdb3-4a58-9655-efdadd9e58b1"/>
 
 <p>Esta simulação foi criada utilizando a bilioteca VPython (Linguagem Python) através do GlowScript, para o meu Trabalho de Conclusão de Curso, na modalidade monografia, intitulado: ESTUDO DA TRANSIÇÃO DE FASE DO SUPERCONDUTOR YBCO A PARTIR DE UMA SIMULAÇÃO EM VPYTHON.</p>
 
